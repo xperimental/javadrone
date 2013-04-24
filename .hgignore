@@ -20,3 +20,4 @@ javadrone-utils/.settings/*
 javadrone-utils/target/*
 javadrone-utils/.classpath
 javadrone-utils/.project
+*.iml
